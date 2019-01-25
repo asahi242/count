@@ -1,0 +1,70 @@
+*{
+	font-family: 黑体;
+}
+body{
+	background: url("../img/bg_co.jpg") repeat-x;
+}
+#main{
+	background: url("../img/main.png") no-repeat;
+	background-size: 500px 700px;
+	width: 500px;
+	height:700px;
+	margin: 0 auto;
+}
+#main div h3{
+	float: left;
+	font-size: 30px;
+	color: #9d9d9d;
+	margin-left: 40px;
+}
+.clear{
+	clear:both;
+}
+#main #num1{
+
+	width:100px;
+	text-align: center;
+	border: 0;
+	border-bottom: 5px solid #fff;
+	background-color: transparent;
+	font-size: 35px;
+	margin-top: 50px;
+}
+#main #num2{
+	width:100px;
+	text-align: center;
+	border: 0;
+	border-bottom: 5px solid #fff;
+	background-color: transparent;
+	font-size: 35px;
+}
+#main #num3{
+	width:100px;
+	text-align: center;
+	border: 0;
+	border-bottom: 5px solid #fff;
+	background-color: transparent;
+	font-size: 35px;
+}
+#main #submit{
+	font-size: 25px;
+	color: #555;
+	margin-top: 20px;
+	margin-left: 215px;
+	background-color: orange;
+	border: 3px solid #fff;
+}
+#main #num1,#main #num2,#main #num3,#main #xianshi{
+	margin-left:200px;
+}
+#main #xianshi{
+	font-size: 50px;
+	color: #f73;
+
+}
+#main img{
+	margin-top: 10px;
+	margin-left: 225px;
+	width: 50px;
+	display: block;
+}
